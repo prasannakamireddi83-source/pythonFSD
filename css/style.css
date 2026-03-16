@@ -1,0 +1,57 @@
+*{
+   background-color: white;
+   color: rgba(255, 0, 85, 0.8);
+   font-family: 'Times New Roman', Times, serif;
+
+}
+
+#box{
+   background-color: blue;
+   text-align: center;
+   line-height: 20px; 
+   text-transform:capitalize;
+}
+#main{
+   font-family: cursive;
+}
+.heading{
+   color:rgb(154, 52, 52);
+   height: 100vh;
+   text-decoration:underline;
+}
+button{
+   background-color: black;
+
+}
+h4{
+   color: wheat;
+   text-align:center;
+   text-transform:capitalize;
+}
+#outer{
+   font-size: 25px;
+   background-color: aqua;
+   position: absolute;
+   border: 20px solid lightsalmon;
+   top: 50%;
+   right: 0%;
+   padding: 50px;
+   margin: 50px;
+}
+#inner{
+   font-size: 10px;
+
+}
+.boxes{
+   height: 100px;
+   display:block;
+   /* visibility: hidden; */
+   width: 100px;
+   border:2px solid lightgrey;
+   padding: 20px;
+   margin: 20px;
+   background-color: lightblue;
+   border-radius: 8px;
+   font-style: italic;
+   font-family: lucida;
+}
